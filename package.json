@@ -1,0 +1,9 @@
+{
+  "name": "dataJS",
+  "description": "A lightweight data access layer for MySQL",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "mysql": "*"
+  }
+}
