@@ -1,6 +1,8 @@
 {
   "name": "dataJS",
   "description": "A lightweight data access layer for MySQL",
+  "homepage": "https://github.com/alexladerman/dataJS",
+  "license" : "GPL-2.0",
   "version": "0.0.1",
   "private": false,
   "dependencies": {
