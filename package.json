@@ -1,11 +1,28 @@
 {
-  "name": "dataJS",
+  "name": "data-mysql",
+  "version": "0.0.3",
   "description": "A lightweight data access layer for MySQL",
-  "homepage": "https://github.com/alexladerman/dataJS",
-  "license" : "GPL-2.0",
-  "version": "0.0.1",
-  "private": false,
+  "main": "data.js",
   "dependencies": {
-    "mysql": "*"
-  }
+    "mysql": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexladerman/dataJS.git"
+  },
+  "keywords": [
+    "data",
+    "mysql",
+    "crud"
+  ],
+  "author": "Alex Laderman",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/alexladerman/dataJS/issues"
+  },
+  "homepage": "https://github.com/alexladerman/dataJS"
 }
